@@ -7,13 +7,17 @@ sections:
     colors: colors-a
     title: We do fishing differently.
     subtitle: Fresh. Better. Faster
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl. Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
       - type: Button
         label: Get Started
         url: /
         style: primary
+        showIcon: true
       - type: Button
         label: Learn More
         url: /
@@ -26,8 +30,16 @@ sections:
       self:
         height: screen
         width: wide
-        margin: ["mt-0", "mb-0", "ml-0", "mr-0"]
-        padding: ["pt-12", "pb-12", "pr-4", "pl-4"]
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pr-4
+          - pl-4
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
@@ -39,7 +51,9 @@ sections:
         fontWeight: '400'
         fontStyle: normal
         textAlign: left
-        margin: ["mt-8", "mb-8"]
+        margin:
+          - mt-8
+          - mb-8
       text:
         textAlign: left
       actions:
@@ -49,7 +63,7 @@ sections:
     variant: variant-a
     colors: colors-a
     title: Services & Experiences
-    subtitle: "Like we said, it's more than just fishing"
+    subtitle: 'Like we said, it''s more than just fishing'
     actions:
       - type: Button
         label: View all
@@ -63,8 +77,16 @@ sections:
       self:
         height: screen
         width: wide
-        margin: ["mt-0", "mb-0", "ml-0", "mr-0"]
-        padding: ["pt-12", "pb-12", "pr-4", "pl-4"]
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pr-4
+          - pl-4
         justifyContent: center
       title:
         fontWeight: '700'
@@ -74,7 +96,9 @@ sections:
         fontWeight: '400'
         fontStyle: normal
         textAlign: center
-        margin: ["mt-0", "mb-12"]
+        margin:
+          - mt-0
+          - mb-12
       actions:
         justifyContent: center
   - type: ContactSection
@@ -119,8 +143,16 @@ sections:
       self:
         height: auto
         width: wide
-        margin: ["mt-0", "mb-0", "ml-0", "mr-0"]
-        padding: ["pt-12", "pb-24", "pr-4", "pl-4"]
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-24
+          - pr-4
+          - pl-4
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
@@ -128,8 +160,12 @@ sections:
         fontWeight: '700'
         fontStyle: normal
         textAlign: left
-        margin: ["mt-0", "mb-4"]
+        margin:
+          - mt-0
+          - mb-4
       text:
         textAlign: left
-        margin: ["mt-0", "mb-12"]
+        margin:
+          - mt-0
+          - mb-12
 ---

@@ -105,7 +105,7 @@ sections:
         justifyContent: center
   - type: ContactSection
     elementId: contact-form
-    colors: colors-f
+    colors: colors-b
     title: Contact us
     text: We look forward to hearing from you.
     form:

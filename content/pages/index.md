@@ -85,6 +85,7 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
         borderWidth: 3
+        borderStyle: solid
       title:
         fontWeight: '700'
         fontStyle: normal

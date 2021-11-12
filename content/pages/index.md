@@ -71,6 +71,7 @@ sections:
         url: /
         style: primary
         showIcon: true
+        icon: arrowRight
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md

@@ -18,6 +18,7 @@ sections:
         url: /
         style: primary
         showIcon: false
+        iconPosition: right
       - type: Button
         label: Learn More
         url: /

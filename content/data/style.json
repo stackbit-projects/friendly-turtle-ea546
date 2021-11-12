@@ -3,7 +3,7 @@
     "h1": {
         "weight": "normal",
         "decoration": "none",
-        "case": "uppercase",
+        "case": "none",
         "letterSpacing": "normal"
     },
     "h2": {

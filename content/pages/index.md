@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: ''
-    colors: colors-i
+    colors: colors-f
     title: We do fishing differently.
     subtitle: Fresh. Better. Faster
     text: >-

@@ -28,6 +28,7 @@ sections:
           - pr-4
         justifyContent: center
         borderColor: border-complementary
+        borderStyle: dotted
       title:
         fontWeight: 700
         fontStyle: normal
